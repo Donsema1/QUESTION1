@@ -6,7 +6,7 @@ package oppcoursework;
 
 /**
  *
- * @author Shakur
+ * @author 
  */
 public class BalexCompany {
     
